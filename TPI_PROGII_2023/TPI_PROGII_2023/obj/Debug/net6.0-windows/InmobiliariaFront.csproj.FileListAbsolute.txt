@@ -1,0 +1,233 @@
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.csproj.AssemblyReference.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\TPI_PROGII_2023.FormPrincipal.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarClientesDeudores.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.csproj.GenerateResource.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.AssemblyInfoInputs.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.AssemblyInfo.cs
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.csproj.CoreCompileInputs.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaFront.exe
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaFront.deps.json
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaFront.runtimeconfig.json
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaFront.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaFront.pdb
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaBack.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaBack.pdb
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.csproj.CopyComplete
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\refint\InmobiliariaFront.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.pdb
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.genruntimeconfig.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\ref\InmobiliariaFront.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\MaterialSkin.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarInmueblesCaptados.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarInmueblesDisponibles.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarPromediosAlquileres.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarContratosPorFinalizar.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarInmueblesPorProp.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Properties.Resources.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarClientesCumplidores.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\TPI_PROGII_2023.FrmPostPutCliente.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Soporte.Clientes.FrmCreateUpdateCliente.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Soporte.Clientes.FrmSoporteClientes.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmLogin.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmReporteFacturas.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.FrmAcercaDe.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaFront.exe
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaFront.deps.json
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaFront.runtimeconfig.json
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaFront.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaFront.pdb
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaBack.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaBack.pdb
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.csproj.AssemblyReference.cache
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\TPI_PROGII_2023.FormPrincipal.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.FrmAcercaDe.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\TPI_PROGII_2023.FrmPostPutCliente.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmLogin.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Properties.Resources.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarClientesCumplidores.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarClientesDeudores.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarContratosPorFinalizar.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarInmueblesCaptados.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarInmueblesDisponibles.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarInmueblesPorProp.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarPromediosAlquileres.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmReporteFacturas.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Soporte.Clientes.FrmCreateUpdateCliente.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Soporte.Clientes.FrmSoporteClientes.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Soporte.Inmuebles.FrmCreateUpdateInmueble.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Soporte.Inmuebles.FrmSoporteInmueble.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.csproj.GenerateResource.cache
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.AssemblyInfoInputs.cache
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.AssemblyInfo.cs
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.sourcelink.json
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.csproj.CopyComplete
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\refint\InmobiliariaFront.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.pdb
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.genruntimeconfig.cache
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\ref\InmobiliariaFront.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\TPI_PROGII_2023.FormGenerarFactura.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.ABM.FrmCliente.resources
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.ABM.FrmInmueble.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaFront.exe
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaFront.deps.json
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaFront.runtimeconfig.json
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaFront.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaFront.pdb
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaBack.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\bin\Debug\net6.0-windows\InmobiliariaBack.pdb
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\TPI_PROGII_2023.FormGenerarFactura.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.ABM.FrmCliente.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.ABM.FrmInmueble.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\TPI_PROGII_2023.FormPrincipal.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.FrmAcercaDe.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\TPI_PROGII_2023.FrmPostPutCliente.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmLogin.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarClientesCumplidores.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarClientesDeudores.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarContratosPorFinalizar.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarInmueblesCaptados.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarInmueblesDisponibles.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarInmueblesPorProp.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmConsultarPromediosAlquileres.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Reportes.FrmReporteFacturas.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Soporte.Clientes.FrmCreateUpdateCliente.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Soporte.Clientes.FrmSoporteClientes.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Soporte.Inmuebles.FrmCreateUpdateInmueble.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.Soporte.Inmuebles.FrmSoporteInmueble.resources
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\refint\InmobiliariaFront.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.pdb
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\InmobiliariaFront.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\TPI_PROGII_2023\obj\Debug\net6.0-windows\ref\InmobiliariaFront.dll

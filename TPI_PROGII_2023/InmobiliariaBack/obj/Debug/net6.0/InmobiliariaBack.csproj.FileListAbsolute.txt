@@ -1,0 +1,37 @@
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.csproj.AssemblyReference.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.AssemblyInfoInputs.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.AssemblyInfo.cs
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.csproj.CoreCompileInputs.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\bin\Debug\net6.0\InmobiliariaBack.deps.json
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\bin\Debug\net6.0\InmobiliariaBack.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\bin\Debug\net6.0\InmobiliariaBack.pdb
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\refint\InmobiliariaBack.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.pdb
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\ref\InmobiliariaBack.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\bin\Debug\net6.0\InmobiliariaBack.deps.json
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\bin\Debug\net6.0\InmobiliariaBack.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\bin\Debug\net6.0\InmobiliariaBack.pdb
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.csproj.AssemblyReference.cache
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.AssemblyInfoInputs.cache
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.AssemblyInfo.cs
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.sourcelink.json
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\refint\InmobiliariaBack.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.pdb
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\ref\InmobiliariaBack.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\bin\Debug\net6.0\InmobiliariaBack.deps.json
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\bin\Debug\net6.0\InmobiliariaBack.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\bin\Debug\net6.0\InmobiliariaBack.pdb
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\refint\InmobiliariaBack.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.pdb
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\ref\InmobiliariaBack.dll

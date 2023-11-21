@@ -1,0 +1,121 @@
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.csproj.AssemblyReference.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.AssemblyInfoInputs.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.AssemblyInfo.cs
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.csproj.CoreCompileInputs.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\appsettings.json
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaWebAPI.exe
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaWebAPI.deps.json
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaWebAPI.runtimeconfig.json
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaWebAPI.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaWebAPI.pdb
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaBack.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaBack.pdb
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.InmobiliariaWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.InmobiliariaWebAPI.props
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InmobiliariaWebAPI.props
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InmobiliariaWebAPI.props
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\scopedcss\bundle\InmobiliariaWebAPI.styles.css
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.csproj.CopyComplete
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\refint\InmobiliariaWebAPI.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.pdb
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.genruntimeconfig.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\ref\InmobiliariaWebAPI.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\2do Cuatrimestre\Programacion II\Ejercicios\TPI_PROGII_2023_REPO\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaWebAPI.exe
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaWebAPI.deps.json
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaWebAPI.runtimeconfig.json
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaWebAPI.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaWebAPI.pdb
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaBack.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaBack.pdb
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.csproj.AssemblyReference.cache
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.AssemblyInfoInputs.cache
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.AssemblyInfo.cs
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.sourcelink.json
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.InmobiliariaWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.InmobiliariaWebAPI.props
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InmobiliariaWebAPI.props
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InmobiliariaWebAPI.props
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\scopedcss\bundle\InmobiliariaWebAPI.styles.css
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.csproj.CopyComplete
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\refint\InmobiliariaWebAPI.dll
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.pdb
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.genruntimeconfig.cache
+C:\Users\Tobias\Desktop\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\ref\InmobiliariaWebAPI.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaWebAPI.exe
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaWebAPI.deps.json
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaWebAPI.runtimeconfig.json
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaWebAPI.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaWebAPI.pdb
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaBack.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\bin\Debug\net6.0\InmobiliariaBack.pdb
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.InmobiliariaWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.InmobiliariaWebAPI.props
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InmobiliariaWebAPI.props
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InmobiliariaWebAPI.props
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\scopedcss\bundle\InmobiliariaWebAPI.styles.css
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\refint\InmobiliariaWebAPI.dll
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.pdb
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\InmobiliariaWebAPI.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaWebAPI\obj\Debug\net6.0\ref\InmobiliariaWebAPI.dll
