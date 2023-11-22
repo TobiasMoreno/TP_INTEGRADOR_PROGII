@@ -65,6 +65,13 @@ namespace InmobiliariaWebAPI.Controllers
         {
             return Ok(gestorInmueble.ObtenerInmuebles());
         }
+
+        [HttpGet("inmueble")]
+        public IActionResult ObtenerProximoCliente()
+        {
+            return Ok(gestorInmueble.ObtenerProximoInmueble());
+        }
+
         [HttpPost("insertar-inmueble")]
         public IActionResult InsertarInmueble(List<Parametro> listaParametros)
         {

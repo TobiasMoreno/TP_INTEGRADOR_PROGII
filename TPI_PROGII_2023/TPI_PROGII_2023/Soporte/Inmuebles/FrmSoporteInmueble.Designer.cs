@@ -238,6 +238,7 @@
             Controls.Add(panel1);
             Name = "FrmSoporteInmueble";
             Text = "FrmSoporteInmueble";
+            Load += FrmSoporteInmueble_Load;
             ((System.ComponentModel.ISupportInitialize)dgvInmuebles).EndInit();
             panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

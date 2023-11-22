@@ -112,7 +112,7 @@ namespace InmobiliariaFront.Soporte.Inmuebles
                             oInmueble.Superficie,
                             oInmueble.AñoConstruccion,
                             oInmueble.Descripcion,
-                            oTipo,
+                            oTipo.ValorTipoInmueble,
                             oBarrio,
                             oInmueble.Direccion,
                             oInmueble.NroDireccion,
@@ -182,7 +182,7 @@ namespace InmobiliariaFront.Soporte.Inmuebles
                 try
                 {
                     int codInmueble = Convert.ToInt32(dgvInmuebles.CurrentRow.Cells["CodInmueble"].Value);
-                    string url = $"https://localhost:7027/api/Inmueble/eiminar-inmueble{codInmueble}";
+                    string url = $"https://localhost:7027/api/Inmueble/eliminar-inmueble/{codInmueble}";
 
                     string response = await ClienteSingleton.GetInstance().DeleteAsync(url);
 
@@ -202,6 +202,11 @@ namespace InmobiliariaFront.Soporte.Inmuebles
             }
 
             ActualizarDataGridView();
+        }
+
+        private async void FrmSoporteInmueble_Load(object sender, EventArgs e)
+        {
+            await CargarDataGridView();
         }
     }
 }

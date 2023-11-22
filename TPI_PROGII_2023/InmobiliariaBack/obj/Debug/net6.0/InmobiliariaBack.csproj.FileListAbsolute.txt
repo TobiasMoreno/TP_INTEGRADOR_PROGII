@@ -35,3 +35,15 @@ C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\Inmob
 C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\refint\InmobiliariaBack.dll
 C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.pdb
 C:\Users\Usuario\Desktop\TUP\Nueva carpeta\TPI_PROGII_2023\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\ref\InmobiliariaBack.dll
+C:\Users\Usuario\Desktop\TP_INTEGRADOR_PROGII\TP_INTEGRADOR_PROGII\TPI_PROGII_2023\InmobiliariaBack\bin\Debug\net6.0\InmobiliariaBack.deps.json
+C:\Users\Usuario\Desktop\TP_INTEGRADOR_PROGII\TP_INTEGRADOR_PROGII\TPI_PROGII_2023\InmobiliariaBack\bin\Debug\net6.0\InmobiliariaBack.dll
+C:\Users\Usuario\Desktop\TP_INTEGRADOR_PROGII\TP_INTEGRADOR_PROGII\TPI_PROGII_2023\InmobiliariaBack\bin\Debug\net6.0\InmobiliariaBack.pdb
+C:\Users\Usuario\Desktop\TP_INTEGRADOR_PROGII\TP_INTEGRADOR_PROGII\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TP_INTEGRADOR_PROGII\TP_INTEGRADOR_PROGII\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TP_INTEGRADOR_PROGII\TP_INTEGRADOR_PROGII\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TP_INTEGRADOR_PROGII\TP_INTEGRADOR_PROGII\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TP_INTEGRADOR_PROGII\TP_INTEGRADOR_PROGII\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP_INTEGRADOR_PROGII\TP_INTEGRADOR_PROGII\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.dll
+C:\Users\Usuario\Desktop\TP_INTEGRADOR_PROGII\TP_INTEGRADOR_PROGII\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\refint\InmobiliariaBack.dll
+C:\Users\Usuario\Desktop\TP_INTEGRADOR_PROGII\TP_INTEGRADOR_PROGII\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\InmobiliariaBack.pdb
+C:\Users\Usuario\Desktop\TP_INTEGRADOR_PROGII\TP_INTEGRADOR_PROGII\TPI_PROGII_2023\InmobiliariaBack\obj\Debug\net6.0\ref\InmobiliariaBack.dll

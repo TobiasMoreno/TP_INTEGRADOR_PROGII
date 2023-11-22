@@ -52,11 +52,19 @@
     <Compile Update="Soporte\Clientes\FrmSoporteClientes.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Soporte\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Soporte\Inmuebles\FrmCreateUpdateInmueble.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Soporte\Inmuebles\FrmSoporteInmueble.cs">
       <SubType>Form</SubType>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Reportes\DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
 </Project>

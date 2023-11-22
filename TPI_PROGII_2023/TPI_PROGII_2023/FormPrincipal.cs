@@ -82,5 +82,17 @@ namespace TPI_PROGII_2023
             FrmSoporteInmueble frmSoporteInmueble = new FrmSoporteInmueble();
             frmSoporteInmueble.ShowDialog();
         }
+
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("¿Desea abandonar el programa?"
+                , "Salir"
+                , MessageBoxButtons.YesNo
+                , MessageBoxIcon.Question
+                , MessageBoxDefaultButton.Button2)
+                == DialogResult.Yes)
+                Close();
+        }
     }
+
 }

@@ -2,6 +2,7 @@
 using InmobiliariaBack.Dominio;
 using InmobiliariaBack.Dominio.Inmuebles;
 using InmobiliariaFront.Client;
+using InmobiliariaFront.Soporte.Clientes;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -123,10 +124,51 @@ namespace InmobiliariaFront.Soporte.Inmuebles
             }
         }
 
+        private async Task CargarComboTipos()
+        {
+            try
+            {
+                string url = "https://localhost:7027/api/TipoInmueble/tipo-inmuebles";
+
+                string response = await ClienteSingleton.GetInstance().GetAsync(url);
+
+                if (!string.IsNullOrEmpty(response))
+                {
+                    List<TipoInmueble> listaBarrios = JsonConvert.DeserializeObject<List<TipoInmueble>>(response);
+
+                    cboTipoInmueble.DataSource = listaBarrios;
+                    cboTipoInmueble.DropDownStyle = ComboBoxStyle.DropDownList;
+                    cboTipoInmueble.ValueMember = "CodTipoInmueble";
+                    cboTipoInmueble.DisplayMember = "ValorTipoInmueble";
+                }
+                else
+                {
+                    MessageBox.Show("La respuesta de la API está vacía.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Ocurrió un error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
         private async void FrmCreateUpdateInmueble_Load(object sender, EventArgs e)
         {
-            await ObtenerProximoInmueble();
+            lblInmueble.Text = lblInmueble.Text + " " + await ObtenerProximoInmueble();
+
             await CargarComboBarrios();
+            await CargarComboTipos();
+
+            if (!esCreate)
+            {
+                NumSuperficie.Value = Convert.ToInt32(oInmueble.Superficie);
+                NumAño.Value = oInmueble.AñoConstruccion;
+                txtDescripcion.Text = oInmueble.Descripcion;
+                cboBarrio.SelectedValue = oInmueble.Barrio.CodBarrio;
+                txtDireccion.Text = oInmueble.Direccion;
+                txtNroDireccion.Text = oInmueble.NroDireccion.ToString();
+                numPrecio.Value = Convert.ToInt32(oInmueble.Precio);
+            }
         }
 
         private async void btnGuardar_Click(object sender, EventArgs e)
@@ -143,13 +185,14 @@ namespace InmobiliariaFront.Soporte.Inmuebles
                     {
                         new Parametro("@cod_inmueble", esCreate ? proximoInmueble : oInmueble.CodInmueble),
                         new Parametro("@superficie", Convert.ToInt32(NumSuperficie.Value)),
-                        new Parametro("@año_construccion", Convert.ToInt32(NumAño.Value)),
+                        new Parametro("@anio_construccion", Convert.ToInt32(NumAño.Value)),
                         new Parametro("@descripcion", Convert.ToString(txtDescripcion.Text)),
                         new Parametro("@cod_tipo_inmueble", Convert.ToInt32(oTipo.CodTipoInmueble)),
                         new Parametro("@cod_barrio",  Convert.ToInt32(oBarrio.CodBarrio)),
                         new Parametro("@direccion", Convert.ToString(txtDireccion.Text)),
                         new Parametro("@nro_direccion",Convert.ToString(txtNroDireccion.Text)),
                         new Parametro("@precio", Convert.ToString(numPrecio.Value)),
+                        new Parametro("@cod_contrato_intermediacion", 1),
                     };
 
                     string data = JsonConvert.SerializeObject(listaParametros);
@@ -183,6 +226,28 @@ namespace InmobiliariaFront.Soporte.Inmuebles
                 catch (Exception ex)
                 {
                     MessageBox.Show("Ocurrió un error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+        }
+
+        private void FrmCreateUpdateInmueble_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            ((FrmSoporteInmueble)Owner).ActualizarDataGridView();
+        }
+
+        private void txtNroDireccion_TextChanged(object sender, EventArgs e)
+        {
+            string texto = txtNroDireccion.Text;
+
+            // Verificar si el texto contiene caracteres no numéricos
+            foreach (char c in texto)
+            {
+                if (!char.IsDigit(c))
+                {
+                    // Si encuentra un carácter no numérico, elimínalo del texto
+                    txtNroDireccion.Text = txtNroDireccion.Text.Remove(txtNroDireccion.Text.Length - 1);
+                    txtNroDireccion.SelectionStart = txtNroDireccion.Text.Length; // Ubica el cursor al final del texto
+                    return;
                 }
             }
         }

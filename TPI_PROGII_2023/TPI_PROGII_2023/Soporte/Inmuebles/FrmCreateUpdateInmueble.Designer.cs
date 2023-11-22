@@ -79,6 +79,7 @@
             txtNroDireccion.Name = "txtNroDireccion";
             txtNroDireccion.Size = new Size(318, 23);
             txtNroDireccion.TabIndex = 107;
+            txtNroDireccion.TextChanged += txtNroDireccion_TextChanged;
             // 
             // txtDireccion
             // 
@@ -265,6 +266,7 @@
             Controls.Add(lblInmobiliaria);
             Name = "FrmCreateUpdateInmueble";
             Text = "FrmCreateUpdateInmueble";
+            FormClosed += FrmCreateUpdateInmueble_FormClosed;
             Load += FrmCreateUpdateInmueble_Load;
             ((System.ComponentModel.ISupportInitialize)NumSuperficie).EndInit();
             ((System.ComponentModel.ISupportInitialize)NumAño).EndInit();

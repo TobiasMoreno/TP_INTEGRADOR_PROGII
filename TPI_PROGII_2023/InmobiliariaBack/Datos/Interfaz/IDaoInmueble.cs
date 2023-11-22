@@ -10,6 +10,7 @@ namespace InmobiliariaBack.Datos.Interfaz
 {
     public interface IDaoInmueble
     {
+        int ObtenerProximoInmueble();
         List<Inmueble> ObtenerInmuebles();
         List<InmuebleCaptadoDTO> ObtenerInmueblesCaptados(List<Parametro> listaParametros);
         List<InmuebleDisponibleDTO> ObtenerInmueblesDisponibles(List<Parametro> listaParametros);

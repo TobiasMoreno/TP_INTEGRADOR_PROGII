@@ -434,7 +434,7 @@ namespace TPI_PROGII_2023
 
         private async void btnGuardar_Click(object sender, EventArgs e)
         {
-            if (/*ValidarMaestro()*/ true)
+            if (ValidarMaestro())
             {
                 oFactura.NroFactura = await ObtenerProximaFactura();
                 oFactura.FechaFactura = DateTime.Now;
@@ -470,6 +470,17 @@ namespace TPI_PROGII_2023
                     MessageBox.Show("Ocurrió un error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
+        }
+
+        private bool ValidarMaestro()
+        {
+            if (dgvDetalles.Rows.Count == 0)
+            {
+                MessageBox.Show("Debe ingresar al menos un detalle", "Control", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                return false;
+            }
+
+            return true;
         }
 
         private void btnCancelar_Click(object sender, EventArgs e)

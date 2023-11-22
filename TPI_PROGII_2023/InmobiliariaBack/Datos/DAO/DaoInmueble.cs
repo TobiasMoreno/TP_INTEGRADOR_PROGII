@@ -11,11 +11,17 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.SqlClient;
 
 namespace InmobiliariaBack.Datos.DAO
 {
     public class DaoInmueble : IDaoInmueble
     {
+        public int ObtenerProximoInmueble()
+        {
+            SqlParameter prox = DBHelper.ObtenerInstancia().Consultar("SP_ObtenerProximoCodInmueble", "@ProximoInmueble", SqlDbType.Int);
+            return (int)prox.Value;
+        }
         public List<CantInmuPropDTO> ObtenerCantInmueblesPorPropietario(List<Parametro> listaParametros)
         {
             List<CantInmuPropDTO> listaCantInmuProp = new List<CantInmuPropDTO>();

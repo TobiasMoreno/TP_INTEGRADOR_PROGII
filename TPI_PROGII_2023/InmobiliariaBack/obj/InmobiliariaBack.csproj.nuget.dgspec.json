@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\TUP\\Nueva carpeta\\TPI_PROGII_2023\\TPI_PROGII_2023\\InmobiliariaBack\\InmobiliariaBack.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\TP_INTEGRADOR_PROGII\\TP_INTEGRADOR_PROGII\\TPI_PROGII_2023\\InmobiliariaBack\\InmobiliariaBack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\TUP\\Nueva carpeta\\TPI_PROGII_2023\\TPI_PROGII_2023\\InmobiliariaBack\\InmobiliariaBack.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\TP_INTEGRADOR_PROGII\\TP_INTEGRADOR_PROGII\\TPI_PROGII_2023\\InmobiliariaBack\\InmobiliariaBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\TUP\\Nueva carpeta\\TPI_PROGII_2023\\TPI_PROGII_2023\\InmobiliariaBack\\InmobiliariaBack.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\TP_INTEGRADOR_PROGII\\TP_INTEGRADOR_PROGII\\TPI_PROGII_2023\\InmobiliariaBack\\InmobiliariaBack.csproj",
         "projectName": "InmobiliariaBack",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\TUP\\Nueva carpeta\\TPI_PROGII_2023\\TPI_PROGII_2023\\InmobiliariaBack\\InmobiliariaBack.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\TP_INTEGRADOR_PROGII\\TP_INTEGRADOR_PROGII\\TPI_PROGII_2023\\InmobiliariaBack\\InmobiliariaBack.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\TUP\\Nueva carpeta\\TPI_PROGII_2023\\TPI_PROGII_2023\\InmobiliariaBack\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\TP_INTEGRADOR_PROGII\\TP_INTEGRADOR_PROGII\\TPI_PROGII_2023\\InmobiliariaBack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.ReportingServices.ReportViewerControl.Winforms": {
+              "target": "Package",
+              "version": "[140.340.80, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.5, )"

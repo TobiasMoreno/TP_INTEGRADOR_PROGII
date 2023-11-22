@@ -21,6 +21,10 @@ namespace InmobiliariaBack.Servicios
             daoInmueble = new DaoInmueble();
         }
 
+        public int ObtenerProximoInmueble()
+        {
+            return daoInmueble.ObtenerProximoInmueble();
+        }
         public List<InmuebleCaptadoDTO> ObtenerInmueblesCaptados(List<Parametro> listaParametros)
         {
             return daoInmueble.ObtenerInmueblesCaptados(listaParametros);

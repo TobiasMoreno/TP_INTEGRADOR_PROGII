@@ -11,6 +11,7 @@ namespace InmobiliariaBack.Servicios.Interfaz
 {
     public interface IGestorInmueble
     {
+        int ObtenerProximoInmueble();
         List<Inmueble> ObtenerInmuebles();
         List<InmuebleCaptadoDTO> ObtenerInmueblesCaptados(List<Parametro> listaParametros);
         List<InmuebleDisponibleDTO> ObtenerInmueblesDisponibles(List<Parametro> listaParametros);
